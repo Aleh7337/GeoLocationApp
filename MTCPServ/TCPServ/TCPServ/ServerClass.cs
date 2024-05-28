@@ -1,22 +1,16 @@
 using System;
 using System.Collections.Generic;
-using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
 using System.Net;
 using System.Net.Sockets;
 using System.Windows.Forms;
 using System.Threading;
-using System.Collections;
-using System.Runtime.InteropServices.ComTypes;
 using System.IO;
-using System.Drawing;
-using System.Drawing.Imaging;
-using System.Diagnostics;
 using System.Security.Cryptography;
 using MySql.Data.MySqlClient;
 
-namespace TCPServ{
+namespace TCPServ
+{
     class ServerClass {
         IPAddress IndirizzoIPClient;
         Socket MioSocketTCP, mioClientSocket;
@@ -135,15 +129,6 @@ namespace TCPServ{
             }
         }
 
-        void connectDB()
-        {
-            string ServerIP = "127.0.0.1";
-            string portMySql = "3306";
-            string connectionString = "SERVER=" + ServerIP + ";" + "PORT =" + portMySql + ";"
-            + "DATABASE =dbtaxi;UID =root;PASSWORD =";
-            conn = new MySqlConnection(connectionString);
-            conn.Open();
-        }
 
         // RICEVI ID
         string riceviId(Socket SocketNuovoClient)
@@ -250,7 +235,15 @@ namespace TCPServ{
                 }
             }
         }
-
+        void connettiDB()
+        {
+            string ServerIP = "127.0.0.1";
+            string portMySql = "3306";
+            string connectionString = "SERVER=" + ServerIP + ";" + "PORT =" + portMySql + ";"
+            + "DATABASE =dbtaxi;UID =root;PASSWORD =";
+            conn = new MySqlConnection(connectionString);
+            conn.Open();
+        }
         void uploadDB(string targa, string latitudine, string longitudine)
         {
             string timestamp = DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss");
