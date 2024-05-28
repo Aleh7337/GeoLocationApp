@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\samue\\OneDrive\\Scuola\\SISTEMI\\A MAUI\\Server Aggiornato\\MTCPServ\\TCPServ\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{33B0AA8E-FC2D-40E0-9B0E-2E38C3533FB8}|TCPServ\\TCPServ.csproj|c:\\users\\samue\\onedrive\\scuola\\sistemi\\a maui\\server aggiornato\\mtcpserv\\tcpserv\\tcpserv\\serverclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33B0AA8E-FC2D-40E0-9B0E-2E38C3533FB8}|TCPServ\\TCPServ.csproj|solutionrelative:tcpserv\\serverclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33B0AA8E-FC2D-40E0-9B0E-2E38C3533FB8}|TCPServ\\TCPServ.csproj|C:\\Users\\samue\\OneDrive\\Scuola\\SISTEMI\\A MAUI\\Server Aggiornato\\MTCPServ\\TCPServ\\TCPServ\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33B0AA8E-FC2D-40E0-9B0E-2E38C3533FB8}|TCPServ\\TCPServ.csproj|solutionrelative:TCPServ\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33B0AA8E-FC2D-40E0-9B0E-2E38C3533FB8}|TCPServ\\TCPServ.csproj|C:\\Users\\samue\\OneDrive\\Scuola\\SISTEMI\\A MAUI\\Server Aggiornato\\MTCPServ\\TCPServ\\tcpserv\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{33B0AA8E-FC2D-40E0-9B0E-2E38C3533FB8}|TCPServ\\TCPServ.csproj|solutionrelative:tcpserv\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33B0AA8E-FC2D-40E0-9B0E-2E38C3533FB8}|TCPServ\\TCPServ.csproj|C:\\Users\\samue\\OneDrive\\Scuola\\SISTEMI\\A MAUI\\Server Aggiornato\\MTCPServ\\TCPServ\\TCPServ\\ClientDescriptorClass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33B0AA8E-FC2D-40E0-9B0E-2E38C3533FB8}|TCPServ\\TCPServ.csproj|solutionrelative:TCPServ\\ClientDescriptorClass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\samue\\OneDrive\\Scuola\\SISTEMI\\A MAUI\\Server Aggiornato\\MTCPServ\\TCPServ\\TCPServ\\Form1.cs",
+              "RelativeDocumentMoniker": "TCPServ\\Form1.cs",
+              "ToolTip": "C:\\Users\\samue\\OneDrive\\Scuola\\SISTEMI\\A MAUI\\Server Aggiornato\\MTCPServ\\TCPServ\\TCPServ\\Form1.cs",
+              "RelativeToolTip": "TCPServ\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T21:03:28.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Progettazione]",
+              "DocumentMoniker": "C:\\Users\\samue\\OneDrive\\Scuola\\SISTEMI\\A MAUI\\Server Aggiornato\\MTCPServ\\TCPServ\\TCPServ\\Form1.cs",
+              "RelativeDocumentMoniker": "TCPServ\\Form1.cs",
+              "ToolTip": "C:\\Users\\samue\\OneDrive\\Scuola\\SISTEMI\\A MAUI\\Server Aggiornato\\MTCPServ\\TCPServ\\TCPServ\\Form1.cs [Progettazione]",
+              "RelativeToolTip": "TCPServ\\Form1.cs [Progettazione]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T21:03:29.298Z",
+              "EditorCaption": " [Progettazione]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClientDescriptorClass.cs",
+              "DocumentMoniker": "C:\\Users\\samue\\OneDrive\\Scuola\\SISTEMI\\A MAUI\\Server Aggiornato\\MTCPServ\\TCPServ\\TCPServ\\ClientDescriptorClass.cs",
+              "RelativeDocumentMoniker": "TCPServ\\ClientDescriptorClass.cs",
+              "ToolTip": "C:\\Users\\samue\\OneDrive\\Scuola\\SISTEMI\\A MAUI\\Server Aggiornato\\MTCPServ\\TCPServ\\TCPServ\\ClientDescriptorClass.cs",
+              "RelativeToolTip": "TCPServ\\ClientDescriptorClass.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB8AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T21:03:29.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ServerClass.cs",
+              "DocumentMoniker": "C:\\Users\\samue\\OneDrive\\Scuola\\SISTEMI\\A MAUI\\Server Aggiornato\\MTCPServ\\TCPServ\\TCPServ\\ServerClass.cs",
+              "RelativeDocumentMoniker": "TCPServ\\ServerClass.cs",
+              "ToolTip": "C:\\Users\\samue\\OneDrive\\Scuola\\SISTEMI\\A MAUI\\Server Aggiornato\\MTCPServ\\TCPServ\\TCPServ\\ServerClass.cs",
+              "RelativeToolTip": "TCPServ\\ServerClass.cs",
+              "ViewState": "AQIAAMYAAAAAAAAAAAAawOAAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T21:03:29.306Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

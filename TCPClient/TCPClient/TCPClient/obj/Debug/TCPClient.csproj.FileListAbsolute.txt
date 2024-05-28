@@ -1,0 +1,163 @@
+C:\Users\Informatica\Desktop\TCP\TCPClient\TCPClient\TCPClient\obj\Debug\TCPClient.csproj.AssemblyReference.cache
+C:\Users\Informatica\Desktop\TCP\TCPClient\TCPClient\TCPClient\obj\Debug\TCPClient.Form1.resources
+C:\Users\Informatica\Desktop\TCP\TCPClient\TCPClient\TCPClient\obj\Debug\TCPClient.Properties.Resources.resources
+C:\Users\Informatica\Desktop\TCP\TCPClient\TCPClient\TCPClient\obj\Debug\TCPClient.csproj.GenerateResource.cache
+C:\Users\Informatica\Desktop\TCP\TCPClient\TCPClient\TCPClient\obj\Debug\TCPClient.csproj.CoreCompileInputs.cache
+C:\Users\Informatica\Desktop\TCP\TCPClient\TCPClient\TCPClient\bin\Debug\TCPClient.exe.config
+C:\Users\Informatica\Desktop\TCP\TCPClient\TCPClient\TCPClient\bin\Debug\TCPClient.exe
+C:\Users\Informatica\Desktop\TCP\TCPClient\TCPClient\TCPClient\bin\Debug\TCPClient.pdb
+C:\Users\Informatica\Desktop\TCP\TCPClient\TCPClient\TCPClient\obj\Debug\TCPClient.exe
+C:\Users\Informatica\Desktop\TCP\TCPClient\TCPClient\TCPClient\obj\Debug\TCPClient.pdb
+C:\Users\Lab19\Desktop\TCP\TCPClient\TCPClient\TCPClient\bin\Debug\TCPClient.exe.config
+C:\Users\Lab19\Desktop\TCP\TCPClient\TCPClient\TCPClient\bin\Debug\TCPClient.exe
+C:\Users\Lab19\Desktop\TCP\TCPClient\TCPClient\TCPClient\bin\Debug\TCPClient.pdb
+C:\Users\Lab19\Desktop\TCP\TCPClient\TCPClient\TCPClient\obj\Debug\TCPClient.csprojAssemblyReference.cache
+C:\Users\Lab19\Desktop\TCP\TCPClient\TCPClient\TCPClient\obj\Debug\TCPClient.Form1.resources
+C:\Users\Lab19\Desktop\TCP\TCPClient\TCPClient\TCPClient\obj\Debug\TCPClient.Properties.Resources.resources
+C:\Users\Lab19\Desktop\TCP\TCPClient\TCPClient\TCPClient\obj\Debug\TCPClient.csproj.GenerateResource.cache
+C:\Users\Lab19\Desktop\TCP\TCPClient\TCPClient\TCPClient\obj\Debug\TCPClient.csproj.CoreCompileInputs.cache
+C:\Users\Lab19\Desktop\TCP\TCPClient\TCPClient\TCPClient\obj\Debug\TCPClient.exe
+C:\Users\Lab19\Desktop\TCP\TCPClient\TCPClient\TCPClient\obj\Debug\TCPClient.pdb
+C:\Users\Informatica\Desktop\TCP\TCP\TCPClient\TCPClient\TCPClient\bin\Debug\TCPClient.exe.config
+C:\Users\Informatica\Desktop\TCP\TCP\TCPClient\TCPClient\TCPClient\bin\Debug\TCPClient.exe
+C:\Users\Informatica\Desktop\TCP\TCP\TCPClient\TCPClient\TCPClient\bin\Debug\TCPClient.pdb
+C:\Users\Informatica\Desktop\TCP\TCP\TCPClient\TCPClient\TCPClient\obj\Debug\TCPClient.csproj.AssemblyReference.cache
+C:\Users\Informatica\Desktop\TCP\TCP\TCPClient\TCPClient\TCPClient\obj\Debug\TCPClient.Form1.resources
+C:\Users\Informatica\Desktop\TCP\TCP\TCPClient\TCPClient\TCPClient\obj\Debug\TCPClient.Properties.Resources.resources
+C:\Users\Informatica\Desktop\TCP\TCP\TCPClient\TCPClient\TCPClient\obj\Debug\TCPClient.csproj.GenerateResource.cache
+C:\Users\Informatica\Desktop\TCP\TCP\TCPClient\TCPClient\TCPClient\obj\Debug\TCPClient.csproj.CoreCompileInputs.cache
+C:\Users\Informatica\Desktop\TCP\TCP\TCPClient\TCPClient\TCPClient\obj\Debug\TCPClient.exe
+C:\Users\Informatica\Desktop\TCP\TCP\TCPClient\TCPClient\TCPClient\obj\Debug\TCPClient.pdb
+C:\Users\Informatica\Desktop\UltimoServer\TCP\TCPClient\TCPClient\TCPClient\bin\Debug\TCPClient.exe.config
+C:\Users\Informatica\Desktop\UltimoServer\TCP\TCPClient\TCPClient\TCPClient\bin\Debug\TCPClient.exe
+C:\Users\Informatica\Desktop\UltimoServer\TCP\TCPClient\TCPClient\TCPClient\bin\Debug\TCPClient.pdb
+C:\Users\Informatica\Desktop\UltimoServer\TCP\TCPClient\TCPClient\TCPClient\obj\Debug\TCPClient.csproj.AssemblyReference.cache
+C:\Users\Informatica\Desktop\UltimoServer\TCP\TCPClient\TCPClient\TCPClient\obj\Debug\TCPClient.Form1.resources
+C:\Users\Informatica\Desktop\UltimoServer\TCP\TCPClient\TCPClient\TCPClient\obj\Debug\TCPClient.Properties.Resources.resources
+C:\Users\Informatica\Desktop\UltimoServer\TCP\TCPClient\TCPClient\TCPClient\obj\Debug\TCPClient.csproj.GenerateResource.cache
+C:\Users\Informatica\Desktop\UltimoServer\TCP\TCPClient\TCPClient\TCPClient\obj\Debug\TCPClient.csproj.CoreCompileInputs.cache
+C:\Users\Informatica\Desktop\UltimoServer\TCP\TCPClient\TCPClient\TCPClient\obj\Debug\TCPClient.exe
+C:\Users\Informatica\Desktop\UltimoServer\TCP\TCPClient\TCPClient\TCPClient\obj\Debug\TCPClient.pdb
+C:\Users\Lab19\Desktop\UltimoServer\TCP\TCPClient\TCPClient\TCPClient\bin\Debug\TCPClient.exe.config
+C:\Users\Lab19\Desktop\UltimoServer\TCP\TCPClient\TCPClient\TCPClient\bin\Debug\TCPClient.exe
+C:\Users\Lab19\Desktop\UltimoServer\TCP\TCPClient\TCPClient\TCPClient\bin\Debug\TCPClient.pdb
+C:\Users\Lab19\Desktop\UltimoServer\TCP\TCPClient\TCPClient\TCPClient\obj\Debug\TCPClient.csprojAssemblyReference.cache
+C:\Users\Lab19\Desktop\UltimoServer\TCP\TCPClient\TCPClient\TCPClient\obj\Debug\TCPClient.Form1.resources
+C:\Users\Lab19\Desktop\UltimoServer\TCP\TCPClient\TCPClient\TCPClient\obj\Debug\TCPClient.Properties.Resources.resources
+C:\Users\Lab19\Desktop\UltimoServer\TCP\TCPClient\TCPClient\TCPClient\obj\Debug\TCPClient.csproj.GenerateResource.cache
+C:\Users\Lab19\Desktop\UltimoServer\TCP\TCPClient\TCPClient\TCPClient\obj\Debug\TCPClient.csproj.CoreCompileInputs.cache
+C:\Users\Lab19\Desktop\UltimoServer\TCP\TCPClient\TCPClient\TCPClient\obj\Debug\TCPClient.exe
+C:\Users\Lab19\Desktop\UltimoServer\TCP\TCPClient\TCPClient\TCPClient\obj\Debug\TCPClient.pdb
+C:\Users\Informatica\Desktop\UltimoServer4B\TCPClient\TCPClient\TCPClient\bin\Debug\TCPClient.exe.config
+C:\Users\Informatica\Desktop\UltimoServer4B\TCPClient\TCPClient\TCPClient\bin\Debug\TCPClient.exe
+C:\Users\Informatica\Desktop\UltimoServer4B\TCPClient\TCPClient\TCPClient\bin\Debug\TCPClient.pdb
+C:\Users\Informatica\Desktop\UltimoServer4B\TCPClient\TCPClient\TCPClient\obj\Debug\TCPClient.csproj.AssemblyReference.cache
+C:\Users\Informatica\Desktop\UltimoServer4B\TCPClient\TCPClient\TCPClient\obj\Debug\TCPClient.Form1.resources
+C:\Users\Informatica\Desktop\UltimoServer4B\TCPClient\TCPClient\TCPClient\obj\Debug\TCPClient.Properties.Resources.resources
+C:\Users\Informatica\Desktop\UltimoServer4B\TCPClient\TCPClient\TCPClient\obj\Debug\TCPClient.csproj.GenerateResource.cache
+C:\Users\Informatica\Desktop\UltimoServer4B\TCPClient\TCPClient\TCPClient\obj\Debug\TCPClient.csproj.CoreCompileInputs.cache
+C:\Users\Informatica\Desktop\UltimoServer4B\TCPClient\TCPClient\TCPClient\obj\Debug\TCPClient.exe
+C:\Users\Informatica\Desktop\UltimoServer4B\TCPClient\TCPClient\TCPClient\obj\Debug\TCPClient.pdb
+C:\Users\Lab11\Desktop\UltimoServer4BTestato\UltimoServer4B\TCPClient\TCPClient\TCPClient\bin\Debug\TCPClient.exe.config
+C:\Users\Lab11\Desktop\UltimoServer4BTestato\UltimoServer4B\TCPClient\TCPClient\TCPClient\bin\Debug\TCPClient.exe
+C:\Users\Lab11\Desktop\UltimoServer4BTestato\UltimoServer4B\TCPClient\TCPClient\TCPClient\bin\Debug\TCPClient.pdb
+C:\Users\Lab11\Desktop\UltimoServer4BTestato\UltimoServer4B\TCPClient\TCPClient\TCPClient\obj\Debug\TCPClient.csprojAssemblyReference.cache
+C:\Users\Lab11\Desktop\UltimoServer4BTestato\UltimoServer4B\TCPClient\TCPClient\TCPClient\obj\Debug\TCPClient.Form1.resources
+C:\Users\Lab11\Desktop\UltimoServer4BTestato\UltimoServer4B\TCPClient\TCPClient\TCPClient\obj\Debug\TCPClient.Properties.Resources.resources
+C:\Users\Lab11\Desktop\UltimoServer4BTestato\UltimoServer4B\TCPClient\TCPClient\TCPClient\obj\Debug\TCPClient.csproj.GenerateResource.cache
+C:\Users\Lab11\Desktop\UltimoServer4BTestato\UltimoServer4B\TCPClient\TCPClient\TCPClient\obj\Debug\TCPClient.csproj.CoreCompileInputs.cache
+C:\Users\Lab11\Desktop\UltimoServer4BTestato\UltimoServer4B\TCPClient\TCPClient\TCPClient\obj\Debug\TCPClient.exe
+C:\Users\Lab11\Desktop\UltimoServer4BTestato\UltimoServer4B\TCPClient\TCPClient\TCPClient\obj\Debug\TCPClient.pdb
+C:\Users\Fausto\Desktop\UltimoServer4B\TCPClient\TCPClient\TCPClient\bin\Debug\TCPClient.exe.config
+C:\Users\Fausto\Desktop\UltimoServer4B\TCPClient\TCPClient\TCPClient\bin\Debug\TCPClient.exe
+C:\Users\Fausto\Desktop\UltimoServer4B\TCPClient\TCPClient\TCPClient\obj\Debug\TCPClient.csproj.AssemblyReference.cache
+C:\Users\Fausto\Desktop\UltimoServer4B\TCPClient\TCPClient\TCPClient\obj\Debug\TCPClient.Form1.resources
+C:\Users\Fausto\Desktop\UltimoServer4B\TCPClient\TCPClient\TCPClient\obj\Debug\TCPClient.Properties.Resources.resources
+C:\Users\Fausto\Desktop\UltimoServer4B\TCPClient\TCPClient\TCPClient\obj\Debug\TCPClient.csproj.GenerateResource.cache
+C:\Users\Fausto\Desktop\UltimoServer4B\TCPClient\TCPClient\TCPClient\obj\Debug\TCPClient.csproj.CoreCompileInputs.cache
+C:\Users\Fausto\Desktop\UltimoServer4B\TCPClient\TCPClient\TCPClient\obj\Debug\TCPClient.exe
+C:\Users\Fausto\Desktop\UltimoServer4B\TCPClient\TCPClient\TCPClient\obj\Debug\TCPClient.pdb
+C:\Users\Fausto\Desktop\UltimoServer4B\TCPClient\TCPClient\TCPClient\bin\Debug\TCPClient.pdb
+D:\SISTEMI\UltimoServer4B\TCPClient\TCPClient\TCPClient\bin\Debug\TCPClient.exe.config
+D:\SISTEMI\UltimoServer4B\TCPClient\TCPClient\TCPClient\bin\Debug\TCPClient.exe
+D:\SISTEMI\UltimoServer4B\TCPClient\TCPClient\TCPClient\bin\Debug\TCPClient.pdb
+D:\SISTEMI\UltimoServer4B\TCPClient\TCPClient\TCPClient\obj\Debug\TCPClient.csproj.AssemblyReference.cache
+D:\SISTEMI\UltimoServer4B\TCPClient\TCPClient\TCPClient\obj\Debug\TCPClient.Form1.resources
+D:\SISTEMI\UltimoServer4B\TCPClient\TCPClient\TCPClient\obj\Debug\TCPClient.Properties.Resources.resources
+D:\SISTEMI\UltimoServer4B\TCPClient\TCPClient\TCPClient\obj\Debug\TCPClient.csproj.GenerateResource.cache
+D:\SISTEMI\UltimoServer4B\TCPClient\TCPClient\TCPClient\obj\Debug\TCPClient.csproj.CoreCompileInputs.cache
+D:\SISTEMI\UltimoServer4B\TCPClient\TCPClient\TCPClient\obj\Debug\TCPClient.exe
+D:\SISTEMI\UltimoServer4B\TCPClient\TCPClient\TCPClient\obj\Debug\TCPClient.pdb
+G:\SISTEMI\UltimoServer\UltimoServer4B\TCPClient\TCPClient\TCPClient\bin\Debug\TCPClient.exe.config
+G:\SISTEMI\UltimoServer\UltimoServer4B\TCPClient\TCPClient\TCPClient\bin\Debug\TCPClient.exe
+G:\SISTEMI\UltimoServer\UltimoServer4B\TCPClient\TCPClient\TCPClient\bin\Debug\TCPClient.pdb
+G:\SISTEMI\UltimoServer\UltimoServer4B\TCPClient\TCPClient\TCPClient\obj\Debug\TCPClient.csproj.AssemblyReference.cache
+G:\SISTEMI\UltimoServer\UltimoServer4B\TCPClient\TCPClient\TCPClient\obj\Debug\TCPClient.Form1.resources
+G:\SISTEMI\UltimoServer\UltimoServer4B\TCPClient\TCPClient\TCPClient\obj\Debug\TCPClient.Properties.Resources.resources
+G:\SISTEMI\UltimoServer\UltimoServer4B\TCPClient\TCPClient\TCPClient\obj\Debug\TCPClient.csproj.GenerateResource.cache
+G:\SISTEMI\UltimoServer\UltimoServer4B\TCPClient\TCPClient\TCPClient\obj\Debug\TCPClient.csproj.CoreCompileInputs.cache
+G:\SISTEMI\UltimoServer\UltimoServer4B\TCPClient\TCPClient\TCPClient\obj\Debug\TCPClient.exe
+G:\SISTEMI\UltimoServer\UltimoServer4B\TCPClient\TCPClient\TCPClient\obj\Debug\TCPClient.pdb
+D:\5BI\Sistemi e Reti\UltimoServer4B\TCPClient\TCPClient\TCPClient\bin\Debug\TCPClient.exe.config
+D:\5BI\Sistemi e Reti\UltimoServer4B\TCPClient\TCPClient\TCPClient\bin\Debug\TCPClient.exe
+D:\5BI\Sistemi e Reti\UltimoServer4B\TCPClient\TCPClient\TCPClient\bin\Debug\TCPClient.pdb
+D:\5BI\Sistemi e Reti\UltimoServer4B\TCPClient\TCPClient\TCPClient\obj\Debug\TCPClient.csproj.AssemblyReference.cache
+D:\5BI\Sistemi e Reti\UltimoServer4B\TCPClient\TCPClient\TCPClient\obj\Debug\TCPClient.csproj.SuggestedBindingRedirects.cache
+D:\5BI\Sistemi e Reti\UltimoServer4B\TCPClient\TCPClient\TCPClient\obj\Debug\TCPClient.Form1.resources
+D:\5BI\Sistemi e Reti\UltimoServer4B\TCPClient\TCPClient\TCPClient\obj\Debug\TCPClient.Properties.Resources.resources
+D:\5BI\Sistemi e Reti\UltimoServer4B\TCPClient\TCPClient\TCPClient\obj\Debug\TCPClient.csproj.GenerateResource.cache
+D:\5BI\Sistemi e Reti\UltimoServer4B\TCPClient\TCPClient\TCPClient\obj\Debug\TCPClient.csproj.CoreCompileInputs.cache
+D:\5BI\Sistemi e Reti\UltimoServer4B\TCPClient\TCPClient\TCPClient\obj\Debug\TCPClient.exe
+D:\5BI\Sistemi e Reti\UltimoServer4B\TCPClient\TCPClient\TCPClient\obj\Debug\TCPClient.pdb
+D:\Server Aggiornato\TCPClient\TCPClient\TCPClient\bin\Debug\TCPClient.exe.config
+D:\Server Aggiornato\TCPClient\TCPClient\TCPClient\bin\Debug\TCPClient.exe
+D:\Server Aggiornato\TCPClient\TCPClient\TCPClient\bin\Debug\TCPClient.pdb
+D:\Server Aggiornato\TCPClient\TCPClient\TCPClient\obj\Debug\TCPClient.csproj.AssemblyReference.cache
+D:\Server Aggiornato\TCPClient\TCPClient\TCPClient\obj\Debug\TCPClient.Form1.resources
+D:\Server Aggiornato\TCPClient\TCPClient\TCPClient\obj\Debug\TCPClient.Properties.Resources.resources
+D:\Server Aggiornato\TCPClient\TCPClient\TCPClient\obj\Debug\TCPClient.csproj.GenerateResource.cache
+D:\Server Aggiornato\TCPClient\TCPClient\TCPClient\obj\Debug\TCPClient.csproj.CoreCompileInputs.cache
+D:\Server Aggiornato\TCPClient\TCPClient\TCPClient\obj\Debug\TCPClient.exe
+D:\Server Aggiornato\TCPClient\TCPClient\TCPClient\obj\Debug\TCPClient.pdb
+D:\Server Aggiornato\TCPClient\TCPClient\TCPClient\obj\Debug\TCPClient.csproj.SuggestedBindingRedirects.cache
+C:\Users\samue\OneDrive\Scuola\SISTEMI\Server Aggiornato\TCPClient\TCPClient\TCPClient\bin\Debug\TCPClient.exe.config
+C:\Users\samue\OneDrive\Scuola\SISTEMI\Server Aggiornato\TCPClient\TCPClient\TCPClient\bin\Debug\TCPClient.exe
+C:\Users\samue\OneDrive\Scuola\SISTEMI\Server Aggiornato\TCPClient\TCPClient\TCPClient\bin\Debug\TCPClient.pdb
+C:\Users\samue\OneDrive\Scuola\SISTEMI\Server Aggiornato\TCPClient\TCPClient\TCPClient\obj\Debug\TCPClient.csproj.AssemblyReference.cache
+C:\Users\samue\OneDrive\Scuola\SISTEMI\Server Aggiornato\TCPClient\TCPClient\TCPClient\obj\Debug\TCPClient.Form1.resources
+C:\Users\samue\OneDrive\Scuola\SISTEMI\Server Aggiornato\TCPClient\TCPClient\TCPClient\obj\Debug\TCPClient.Properties.Resources.resources
+C:\Users\samue\OneDrive\Scuola\SISTEMI\Server Aggiornato\TCPClient\TCPClient\TCPClient\obj\Debug\TCPClient.csproj.GenerateResource.cache
+C:\Users\samue\OneDrive\Scuola\SISTEMI\Server Aggiornato\TCPClient\TCPClient\TCPClient\obj\Debug\TCPClient.csproj.CoreCompileInputs.cache
+C:\Users\samue\OneDrive\Scuola\SISTEMI\Server Aggiornato\TCPClient\TCPClient\TCPClient\obj\Debug\TCPClient.exe
+C:\Users\samue\OneDrive\Scuola\SISTEMI\Server Aggiornato\TCPClient\TCPClient\TCPClient\obj\Debug\TCPClient.pdb
+C:\Users\LAB 10\Desktop\Server Aggiornato\TCPClient\TCPClient\TCPClient\bin\Debug\TCPClient.exe.config
+C:\Users\LAB 10\Desktop\Server Aggiornato\TCPClient\TCPClient\TCPClient\bin\Debug\TCPClient.exe
+C:\Users\LAB 10\Desktop\Server Aggiornato\TCPClient\TCPClient\TCPClient\bin\Debug\TCPClient.pdb
+C:\Users\LAB 10\Desktop\Server Aggiornato\TCPClient\TCPClient\TCPClient\obj\Debug\TCPClient.csproj.AssemblyReference.cache
+C:\Users\LAB 10\Desktop\Server Aggiornato\TCPClient\TCPClient\TCPClient\obj\Debug\TCPClient.Form1.resources
+C:\Users\LAB 10\Desktop\Server Aggiornato\TCPClient\TCPClient\TCPClient\obj\Debug\TCPClient.Properties.Resources.resources
+C:\Users\LAB 10\Desktop\Server Aggiornato\TCPClient\TCPClient\TCPClient\obj\Debug\TCPClient.csproj.GenerateResource.cache
+C:\Users\LAB 10\Desktop\Server Aggiornato\TCPClient\TCPClient\TCPClient\obj\Debug\TCPClient.csproj.CoreCompileInputs.cache
+C:\Users\LAB 10\Desktop\Server Aggiornato\TCPClient\TCPClient\TCPClient\obj\Debug\TCPClient.exe
+C:\Users\LAB 10\Desktop\Server Aggiornato\TCPClient\TCPClient\TCPClient\obj\Debug\TCPClient.pdb
+C:\Users\LAB 20\Downloads\Server Aggiornato\TCPClient\TCPClient\TCPClient\bin\Debug\TCPClient.exe.config
+C:\Users\LAB 20\Downloads\Server Aggiornato\TCPClient\TCPClient\TCPClient\bin\Debug\TCPClient.exe
+C:\Users\LAB 20\Downloads\Server Aggiornato\TCPClient\TCPClient\TCPClient\bin\Debug\TCPClient.pdb
+C:\Users\LAB 20\Downloads\Server Aggiornato\TCPClient\TCPClient\TCPClient\obj\Debug\TCPClient.csproj.AssemblyReference.cache
+C:\Users\LAB 20\Downloads\Server Aggiornato\TCPClient\TCPClient\TCPClient\obj\Debug\TCPClient.csproj.SuggestedBindingRedirects.cache
+C:\Users\LAB 20\Downloads\Server Aggiornato\TCPClient\TCPClient\TCPClient\obj\Debug\TCPClient.Form1.resources
+C:\Users\LAB 20\Downloads\Server Aggiornato\TCPClient\TCPClient\TCPClient\obj\Debug\TCPClient.Properties.Resources.resources
+C:\Users\LAB 20\Downloads\Server Aggiornato\TCPClient\TCPClient\TCPClient\obj\Debug\TCPClient.csproj.GenerateResource.cache
+C:\Users\LAB 20\Downloads\Server Aggiornato\TCPClient\TCPClient\TCPClient\obj\Debug\TCPClient.csproj.CoreCompileInputs.cache
+C:\Users\LAB 20\Downloads\Server Aggiornato\TCPClient\TCPClient\TCPClient\obj\Debug\TCPClient.exe
+C:\Users\LAB 20\Downloads\Server Aggiornato\TCPClient\TCPClient\TCPClient\obj\Debug\TCPClient.pdb
+C:\Users\samue\OneDrive\Scuola\SISTEMI\Server Aggiornato 1\TCPClient\TCPClient\TCPClient\bin\Debug\TCPClient.exe.config
+C:\Users\samue\OneDrive\Scuola\SISTEMI\Server Aggiornato 1\TCPClient\TCPClient\TCPClient\bin\Debug\TCPClient.exe
+C:\Users\samue\OneDrive\Scuola\SISTEMI\Server Aggiornato 1\TCPClient\TCPClient\TCPClient\bin\Debug\TCPClient.pdb
+C:\Users\samue\OneDrive\Scuola\SISTEMI\Server Aggiornato 1\TCPClient\TCPClient\TCPClient\obj\Debug\TCPClient.csproj.AssemblyReference.cache
+C:\Users\samue\OneDrive\Scuola\SISTEMI\Server Aggiornato 1\TCPClient\TCPClient\TCPClient\obj\Debug\TCPClient.Form1.resources
+C:\Users\samue\OneDrive\Scuola\SISTEMI\Server Aggiornato 1\TCPClient\TCPClient\TCPClient\obj\Debug\TCPClient.Properties.Resources.resources
+C:\Users\samue\OneDrive\Scuola\SISTEMI\Server Aggiornato 1\TCPClient\TCPClient\TCPClient\obj\Debug\TCPClient.csproj.GenerateResource.cache
+C:\Users\samue\OneDrive\Scuola\SISTEMI\Server Aggiornato 1\TCPClient\TCPClient\TCPClient\obj\Debug\TCPClient.csproj.CoreCompileInputs.cache
+C:\Users\samue\OneDrive\Scuola\SISTEMI\Server Aggiornato 1\TCPClient\TCPClient\TCPClient\obj\Debug\TCPClient.exe
+C:\Users\samue\OneDrive\Scuola\SISTEMI\Server Aggiornato 1\TCPClient\TCPClient\TCPClient\obj\Debug\TCPClient.pdb
