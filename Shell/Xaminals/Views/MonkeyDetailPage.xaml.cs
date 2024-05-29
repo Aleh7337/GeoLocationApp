@@ -1,8 +1,6 @@
-﻿using System;
-using System.Net;
+﻿using System.Net;
 using System.Net.Sockets;
 using System.Text.Json;
-using Xaminals.ViewModels;
 
 namespace Xaminals.Views
 {
@@ -54,36 +52,36 @@ namespace Xaminals.Views
             string coordinatesJson = JsonSerializer.Serialize(coordinatesList);
 
             string htmlSource = $@"
-        <!DOCTYPE html>
-        <html>
-        <head>
-            <title>Google Maps</title>
-            <script src=""https://maps.googleapis.com/maps/api/js?key=AIzaSyBPZbMWC4mThtDRiE5HR16jsyE97toAP5M""></script>
-            <script>
-                function initMap() {{
-                    var map = new google.maps.Map(document.getElementById('map'), {{
-                        zoom: 10,
-                        center: {{lat: {latitude}, lng: {longitude}}},
-                        mapTypeId: 'terrain'
-                    }});
+                <!DOCTYPE html>
+                <html>
+                <head>
+                    <title>Google Maps</title>
+                    <script src=""https://maps.googleapis.com/maps/api/js?key=AIzaSyBPZbMWC4mThtDRiE5HR16jsyE97toAP5M""></script>
+                    <script>
+                        function initMap() {{
+                            var map = new google.maps.Map(document.getElementById('map'), {{
+                                zoom: 10,
+                                center: {{lat: {latitude}, lng: {longitude}}},
+                                mapTypeId: 'terrain'
+                            }});
 
-                    var flightPlanCoordinates = {coordinatesJson};
-                    var flightPath = new google.maps.Polyline({{
-                        path: flightPlanCoordinates,
-                        geodesic: true,
-                        strokeColor: '#FF0000',
-                        strokeOpacity: 1.0,
-                        strokeWeight: 2
-                    }});
+                            var flightPlanCoordinates = {coordinatesJson};
+                            var flightPath = new google.maps.Polyline({{
+                                path: flightPlanCoordinates,
+                                geodesic: true,
+                                strokeColor: '#FF0000',
+                                strokeOpacity: 1.0,
+                                strokeWeight: 2
+                            }});
 
-                    flightPath.setMap(map);
-                }}
-            </script>
-        </head>
-        <body onload=""initMap()"">
-            <div id=""map"" style=""height:1000px;width:1000px;""></div>
-        </body>
-        </html>";
+                            flightPath.setMap(map);
+                        }}
+                    </script>
+                </head>
+                <body onload=""initMap()"">
+                    <div id=""map"" style=""height:1000px;width:1000px;""></div>
+                </body>
+                </html>";
 
             MyWebView.Source = new HtmlWebViewSource { Html = htmlSource };
         }
@@ -105,12 +103,12 @@ namespace Xaminals.Views
 
                 if (location != null)
                 {
-                    UpdateMap(location.Latitude.ToString()+','+ location.Longitude.ToString());
+                    UpdateMap(location.Latitude,location.Longitude);
                 }
                 else
                 {
                     // Handle location not available
-                    UpdateMap("9.0035, 38.7830");//posizione default
+                    UpdateMap(9.0035, 38.7830);//posizione default
                 }
             }
             catch (FeatureNotSupportedException fnsEx)

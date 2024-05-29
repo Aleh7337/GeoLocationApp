@@ -4,18 +4,12 @@ using System.Text;
 using Xaminals.Data;
 using Xaminals.Models;
 
-
-
 namespace Xaminals.Views
 {
-    //[QueryProperty(nameof(Name), "name")]
-    public partial class MainViewModel
-    {
+    public partial class MainViewModel {
         public string Data { get; set; }
     }
-
     public partial class CatDetailPage : ContentPage
-    
     {
         public string Name
         {
@@ -34,7 +28,6 @@ namespace Xaminals.Views
         const int DIMBUF = 1024;
         Socket socketClientMobile;
 
-
         private void FunzioneConnetti(object sender, EventArgs e)
         {
             byte[] miobuf = new byte[DIMBUF];
@@ -47,7 +40,6 @@ namespace Xaminals.Views
                 socketClientMobile.Connect(ServerIP);
                 socketClientMobile.Send(Encoding.ASCII.GetBytes(clientId + "<id>"));
                 DisplayAlert("", "Connesso", "OK");
-                
             }
             catch(Exception ex)
             {
@@ -60,21 +52,17 @@ namespace Xaminals.Views
             byte[] bufferTesto = new byte[DIMBUF];  //la stringa del textbox è da convertire in byteArray per essere trasmessa
             int byteInviati = 0;
             bufferTesto = Encoding.ASCII.GetBytes(EntryTx.Text + '\r');
-
             try
             {
                 if (socketClientMobile.Connected)
                 {
                     byteInviati = socketClientMobile.Send(bufferTesto);
-                    DisplayAlert("","Messaggio:"+ EntryTx.Text+" "+"inviato", "OK");
+                    //DisplayAlert("","Messaggio:"+ EntryTx.Text+" "+"inviato", "OK");
                     EntryTx.Text = "";
-
                 }
-
                 else
                 {
                     DisplayAlert("", "Socket disconnesso", "OK");
-
                 }
             }
             catch (Exception ex)
@@ -82,7 +70,6 @@ namespace Xaminals.Views
                 DisplayAlert("", ex.Message, "OK");
             }
         }
-
         private void GetPosizioneClick(object sender, EventArgs e)
         {
             OnStartListening();
@@ -91,7 +78,7 @@ namespace Xaminals.Views
         {
             bool statoR;
             string msg = "Couldn't start listening";
-            await DisplayAlert("", "Detect posizione", "OK");
+            //await DisplayAlert("", "Detect posizione", "OK");
             GeolocationAccuracy precisioneP = new GeolocationAccuracy();
             try
             {
@@ -110,9 +97,7 @@ namespace Xaminals.Views
         {
             byte[] bufferTesto = new byte[DIMBUF];  //la stringa del textbox è da convertire in byteArray per essere trasmessa
             int byteInviati = 0;
-
-            DisplayAlert("", "Nuova posizione: Latitudine:" + e.Location.Latitude +
-                         " Longitudine:" + e.Location.Longitude, "OK");
+            //DisplayAlert("", "Nuova posizione: Latitudine:" + e.Location.Latitude +" Longitudine:" + e.Location.Longitude, "OK");
             bufferTesto = Encoding.ASCII.GetBytes("Nuova posizione: Latitudine:" + e.Location.Latitude +
                          " Longitudine:" + e.Location.Longitude + '\r');
             byteInviati = socketClientMobile.Send(bufferTesto);
