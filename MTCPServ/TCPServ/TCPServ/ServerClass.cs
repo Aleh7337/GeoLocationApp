@@ -1,12 +1,12 @@
 using System;
 using System.Collections.Generic;
-using System.Text;
+using System.IO;
 using System.Net;
 using System.Net.Sockets;
-using System.Windows.Forms;
-using System.Threading;
-using System.IO;
 using System.Security.Cryptography;
+using System.Text;
+using System.Threading;
+using System.Windows.Forms;
 using MySql.Data.MySqlClient;
 
 namespace TCPServ
@@ -235,7 +235,8 @@ namespace TCPServ
                 }
             }
         }
-        void connettiDB()
+
+        void connectDB()
         {
             string ServerIP = "127.0.0.1";
             string portMySql = "3306";

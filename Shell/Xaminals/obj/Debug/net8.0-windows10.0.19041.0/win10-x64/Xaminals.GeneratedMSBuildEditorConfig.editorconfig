@@ -1,0 +1,115 @@
+is_global = true
+build_property.TargetFramework = net8.0-windows10.0.19041.0
+build_property.TargetPlatformMinVersion = 10.0.17763.0
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 9A19103F-16F7-4668-BE54-9A1E7A4F7556
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Xaminals
+build_property.ProjectDir = C:\Users\arami\OneDrive\Desktop\MAUI\GeoLocationApp\Shell\Xaminals\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+
+[C:/Users/arami/OneDrive/Desktop/MAUI/GeoLocationApp/Shell/Xaminals/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Xaminals.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/Users/arami/OneDrive/Desktop/MAUI/GeoLocationApp/Shell/Xaminals/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Xaminals.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[C:/Users/arami/OneDrive/Desktop/MAUI/GeoLocationApp/Shell/Xaminals/Controls/FlyoutFooter.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Xaminals.Controls.FlyoutFooter.xaml
+build_metadata.AdditionalFiles.TargetPath = Controls\FlyoutFooter.xaml
+build_metadata.AdditionalFiles.RelativePath = Controls\FlyoutFooter.xaml
+
+[C:/Users/arami/OneDrive/Desktop/MAUI/GeoLocationApp/Shell/Xaminals/Controls/FlyoutHeader.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Xaminals.Controls.FlyoutHeader.xaml
+build_metadata.AdditionalFiles.TargetPath = Controls\FlyoutHeader.xaml
+build_metadata.AdditionalFiles.RelativePath = Controls\FlyoutHeader.xaml
+
+[C:/Users/arami/OneDrive/Desktop/MAUI/GeoLocationApp/Shell/Xaminals/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Xaminals.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/Users/arami/OneDrive/Desktop/MAUI/GeoLocationApp/Shell/Xaminals/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Xaminals.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[C:/Users/arami/OneDrive/Desktop/MAUI/GeoLocationApp/Shell/Xaminals/Views/AboutPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Xaminals.Views.AboutPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\AboutPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\AboutPage.xaml
+
+[C:/Users/arami/OneDrive/Desktop/MAUI/GeoLocationApp/Shell/Xaminals/Views/BearDetailPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Xaminals.Views.BearDetailPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\BearDetailPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\BearDetailPage.xaml
+
+[C:/Users/arami/OneDrive/Desktop/MAUI/GeoLocationApp/Shell/Xaminals/Views/BearsPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Xaminals.Views.BearsPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\BearsPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\BearsPage.xaml
+
+[C:/Users/arami/OneDrive/Desktop/MAUI/GeoLocationApp/Shell/Xaminals/Views/CatDetailPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Xaminals.Views.CatDetailPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\CatDetailPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\CatDetailPage.xaml
+
+[C:/Users/arami/OneDrive/Desktop/MAUI/GeoLocationApp/Shell/Xaminals/Views/CatsPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Xaminals.Views.CatsPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\CatsPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\CatsPage.xaml
+
+[C:/Users/arami/OneDrive/Desktop/MAUI/GeoLocationApp/Shell/Xaminals/Views/DogDetailPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Xaminals.Views.DogDetailPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\DogDetailPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\DogDetailPage.xaml
+
+[C:/Users/arami/OneDrive/Desktop/MAUI/GeoLocationApp/Shell/Xaminals/Views/DogsPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Xaminals.Views.DogsPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\DogsPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\DogsPage.xaml
+
+[C:/Users/arami/OneDrive/Desktop/MAUI/GeoLocationApp/Shell/Xaminals/Views/ElephantDetailPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Xaminals.Views.ElephantDetailPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\ElephantDetailPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\ElephantDetailPage.xaml
+
+[C:/Users/arami/OneDrive/Desktop/MAUI/GeoLocationApp/Shell/Xaminals/Views/ElephantsPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Xaminals.Views.ElephantsPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\ElephantsPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\ElephantsPage.xaml
+
+[C:/Users/arami/OneDrive/Desktop/MAUI/GeoLocationApp/Shell/Xaminals/Views/MonkeyDetailPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Xaminals.Views.MonkeyDetailPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\MonkeyDetailPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\MonkeyDetailPage.xaml
+
+[C:/Users/arami/OneDrive/Desktop/MAUI/GeoLocationApp/Shell/Xaminals/Views/MonkeysPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Xaminals.Views.MonkeysPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\MonkeysPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\MonkeysPage.xaml

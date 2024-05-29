@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Xaminals.Views.CatDetailPage"
+             Title="Connetti/Invia">
+    <ScrollView>
+        <StackLayout Margin="20">
+            <Label Text="{Binding Name}" 
+                   HorizontalOptions="Center" 
+                   Style="{DynamicResource TitleStyle}" />
+            <Label Text="{Binding Location}" 
+                   FontAttributes="Italic" 
+                   HorizontalOptions="Center" />
+            <Image Source="{Binding ImageUrl}" 
+                   HeightRequest="200" 
+                   WidthRequest="200" 
+                   HorizontalOptions="Center" />
+            <Label Text="{Binding Details}" 
+                   Style="{DynamicResource BodyStyle}" />
+            <Entry 
+                x:Name="EntryIP"
+                Text="127.0.0.1" 
+            />
+            <Button
+                x:Name="miaConnettiEntry"
+                Text="OK"
+                Clicked="FunzioneConnetti"
+             />
+            <Label Text="{Binding Details}" 
+                Style="{DynamicResource BodyStyle}" />
+            
+            <Label Text="Invia"
+                   HorizontalOptions="Center"
+                   VerticalOptions="Center"
+                   FontSize="Medium" />
+            <Image Source="invia.png" 
+                   HeightRequest="200" 
+                   WidthRequest="200" 
+                   HorizontalOptions="Center" />
+            <Entry x:Name="EntryTx" 
+                   Placeholder="Inserisci il testo" />
+            <Button
+                x:Name="InviaBtn"
+                Text="Inviaaa"
+                Clicked="FunzioneInvia" />
+            <Label Text=""
+                    HeightRequest="50"
+  />
+            <Label Text="Sezione Posizione"
+               HorizontalOptions="Center"
+               VerticalOptions="Center"
+               FontSize="Medium" />
+            <Image Source="posizione.jpg"
+                    HeightRequest="200" 
+                    WidthRequest="200" 
+                    HorizontalOptions="Center" />
+            <Button
+                Text="Ascolto Posizione..."
+                Clicked="GetPosizioneClick"/>
+            <Button
+                 Text="Stop Ascolto Posizione..."
+                 Clicked="stopListenPosizioneClick"/>
+        </StackLayout>
+    </ScrollView>
+</ContentPage>
