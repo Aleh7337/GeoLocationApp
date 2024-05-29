@@ -5,7 +5,7 @@
              xmlns:data="clr-namespace:Xaminals.Data"
              xmlns:views="clr-namespace:Xaminals.Views"
              x:Class="Xaminals.Views.MonkeysPage"
-             Title="Monkeys">
+             Title="Mappa">
     <ContentPage.Resources>
         <Style TargetType="Grid">
             <Setter Property="VisualStateManager.VisualStateGroups">

@@ -3,7 +3,7 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
              x:Class="Xaminals.Views.MonkeyDetailPage"
              x:Name="self"
-             Title="Monkey Details">
+             Title="Mappa">
     
     <!--<Shell.BackButtonBehavior>
         <BackButtonBehavior Command="{Binding BackCommand}"
@@ -13,18 +13,9 @@
    
     <ScrollView>
         <StackLayout Margin="20">
-            <Label Text="{Binding Monkey.Name}" 
-                   HorizontalOptions="Center" 
-                   Style="{DynamicResource TitleStyle}" />
-            <Label Text="{Binding Monkey.Location}" 
-                   FontAttributes="Italic" 
-                   HorizontalOptions="Center" />
-            <Image Source="{Binding Monkey.ImageUrl}" 
-                   HeightRequest="200" 
-                   WidthRequest="200" 
-                   HorizontalOptions="Center" />
-            <Label Text="{Binding Monkey.Details}" 
-                   Style="{DynamicResource BodyStyle}" />
+            <WebView x:Name="MyWebView" 
+                 HeightRequest="1000" 
+                 WidthRequest="1000" />
         </StackLayout>
     </ScrollView>
 </ContentPage>

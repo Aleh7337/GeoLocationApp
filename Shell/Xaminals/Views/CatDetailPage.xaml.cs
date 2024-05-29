@@ -8,7 +8,11 @@ using Xaminals.Models;
 
 namespace Xaminals.Views
 {
-    [QueryProperty(nameof(Name), "name")]
+    //[QueryProperty(nameof(Name), "name")]
+    public partial class MainViewModel
+    {
+        public string Data { get; set; }
+    }
 
     public partial class CatDetailPage : ContentPage
     
@@ -24,6 +28,7 @@ namespace Xaminals.Views
         public CatDetailPage()
         {
             InitializeComponent();
+            BindingContext = new MainViewModel { Data = "Hello from MainPage!" };
         }
         String clientId = "Guidatore 1";
         const int DIMBUF = 1024;
@@ -47,7 +52,6 @@ namespace Xaminals.Views
             catch(Exception ex)
             {
                 DisplayAlert("", ex.Message, "OK");
-
             }
         }
 

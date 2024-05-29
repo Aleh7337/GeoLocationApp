@@ -1,3 +1,13 @@
 29/05/2024 11:46:55 [INFO] Server in ascolto
 29/05/2024 11:46:58 [INFO] Client Guidatore 1 connesso al server
 29/05/2024 11:47:11 A blocking operation was interrupted by a call to WSACancelBlockingCall
+29/05/2024 16:35:04 [INFO] Server in ascolto
+29/05/2024 16:35:07 [INFO] Client Guidatore 1 connesso al server
+29/05/2024 16:45:11 [INFO] Client Guidatore 1 riconnesso al server
+29/05/2024 16:45:36 [INFO] Client Guidatore 1 riconnesso al server
+29/05/2024 16:45:39 [INFO] Client Guidatore 1 riconnesso al server
+29/05/2024 16:45:39 [INFO] Client Guidatore 1 riconnesso al server
+29/05/2024 16:45:56 [INFO] Server in ascolto
+29/05/2024 16:46:16 [INFO] Client Guidatore 1 connesso al server
+29/05/2024 17:26:42 A blocking operation was interrupted by a call to WSACancelBlockingCall
+29/05/2024 17:26:42 An existing connection was forcibly closed by the remote host

@@ -2,7 +2,6 @@
 <Shell xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
        xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
        xmlns:controls="clr-namespace:Xaminals.Controls"
-       xmlns:sys="clr-namespace:System;assembly=netstandard"
        xmlns:views="clr-namespace:Xaminals.Views"
        x:Class="Xaminals.AppShell"
        x:Name="shell"
@@ -64,9 +63,7 @@
     <Shell.FlyoutFooter>
         <controls:FlyoutFooter />
     </Shell.FlyoutFooter>
-   
 
-   
     <FlyoutItem Route="animals"
                 FlyoutDisplayOptions="AsMultipleItems">
         <Tab Title="Gestione Rete"
@@ -84,22 +81,11 @@
                           ContentTemplate="{DataTemplate views:DogsPage}" />
         </Tab>
 
-      
         <ShellContent Route="monkeys"
                       Style="{StaticResource MonkeysShell}"
-                      Title="Monkeys"
-                      Icon="monkey.png"
+                      Title="Mappa"
+                      Icon="googlemaps.svg"
                       ContentTemplate="{DataTemplate views:MonkeysPage}" />
-        <ShellContent Route="elephants"
-                      Style="{StaticResource ElephantsShell}"
-                      Title="Elephants"
-                      Icon="elephant.png"
-                      ContentTemplate="{DataTemplate views:ElephantsPage}" />
-        <ShellContent Route="bears"
-                      Style="{StaticResource BearsShell}"
-                      Title="Bears"
-                      Icon="bear.png"
-                      ContentTemplate="{DataTemplate views:BearsPage}" />
     </FlyoutItem>
 
     <ShellContent Route="about"
@@ -112,5 +98,4 @@
               IconImageSource="help.png"
               Command="{Binding HelpCommand}"
               CommandParameter="https://docs.microsoft.com/dotnet/maui/fundamentals/shell" />
-
 </Shell>

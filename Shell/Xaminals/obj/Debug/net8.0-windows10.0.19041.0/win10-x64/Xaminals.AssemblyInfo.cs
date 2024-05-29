@@ -18,7 +18,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Xaminals")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+bd86fc32a891a4a71860019769cd8e3195863204")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+daf630f686eb7d6642ba146cbb5ca9c3bae8657e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Xaminals")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Xaminals")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
