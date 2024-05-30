@@ -33,13 +33,13 @@ namespace Xaminals.Views
             byte[] miobuf = new byte[DIMBUF];
             IPAddress IndirizzoIPserver = IPAddress.Parse(EntryIP.Text);
             IPEndPoint ServerIP = new IPEndPoint(IndirizzoIPserver, 8080);
-            DisplayAlert("", "Connetti gestore evento", "OK");
+            //DisplayAlert("", "Connetti gestore evento", "OK");
             socketClientMobile = new Socket(AddressFamily.InterNetwork, SocketType.Stream, ProtocolType.Tcp);
             try
             {
                 socketClientMobile.Connect(ServerIP);
                 socketClientMobile.Send(Encoding.ASCII.GetBytes(clientId + "<id>"));
-                DisplayAlert("", "Connesso", "OK");
+                //DisplayAlert("", "Connesso", "OK");
             }
             catch(Exception ex)
             {
@@ -98,8 +98,8 @@ namespace Xaminals.Views
             byte[] bufferTesto = new byte[DIMBUF];  //la stringa del textbox è da convertire in byteArray per essere trasmessa
             int byteInviati = 0;
             //DisplayAlert("", "Nuova posizione: Latitudine:" + e.Location.Latitude +" Longitudine:" + e.Location.Longitude, "OK");
-            bufferTesto = Encoding.ASCII.GetBytes("Nuova posizione: Latitudine:" + e.Location.Latitude +
-                         " Longitudine:" + e.Location.Longitude + '\r');
+            bufferTesto = Encoding.ASCII.GetBytes("<latitude>" + e.Location.Latitude +
+                         "<longitude>" + e.Location.Longitude + '\r');
             byteInviati = socketClientMobile.Send(bufferTesto);
         }
 
@@ -107,41 +107,29 @@ namespace Xaminals.Views
         {
             OnStopListening();
         }
-        void OnStopListening()
-        {
+        void OnStopListening() {
             String statoP = "Listening";
-            try
-            {
+            try {
                 Geolocation.LocationChanged -= Geolocation_LocationChanged;
                 Geolocation.StopListeningForeground();
                 statoP = "Stopped listening location update";
                 DisplayAlert("", statoP, "OK");
-            }
-            catch (Exception ex)
-            {
+            } catch (Exception ex) {
                 DisplayAlert("", ex.Message, "OK");
             }
         }
-
-
-/*Location boston = new Location(42.358056, -71.063611);
- Location sanFrancisco = new Location(37.783333, -122.416667);
- double miles = Location.CalculateDistance(boston, sanFrancisco, DistanceUnits.Miles);*/
-
-
-
-void LoadAnimal(string name)
+        void LoadAnimal(string name)
+        {
+            try
             {
-                try
-                {
-                    VoceMenuPersonalizzato animal = CatData.Cats.FirstOrDefault(a => a.Name == name);
-                    BindingContext = animal;
-                }
-                catch (Exception)
-                {
-                    Console.WriteLine("Failed to load animal.");
-                }
+                VoceMenuPersonalizzato animal = CatData.Cats.FirstOrDefault(a => a.Name == name);
+                BindingContext = animal;
             }
+            catch (Exception)
+            {
+                Console.WriteLine("Failed to load animal.");
+            }
+        }
     }
  }
 

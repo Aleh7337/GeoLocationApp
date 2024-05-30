@@ -44,13 +44,10 @@ namespace Xaminals.Views
                 lat = latitude,
                 lng = longitude
             };
-
             // Creare una lista di oggetti coordinate JSON
             var coordinatesList = new List<object> { coordinateObject };
-
             // Serializzare la lista di coordinate in JSON
             string coordinatesJson = JsonSerializer.Serialize(coordinatesList);
-
             string htmlSource = $@"
                 <!DOCTYPE html>
                 <html>

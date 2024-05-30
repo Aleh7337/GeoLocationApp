@@ -25,13 +25,11 @@ namespace TCPServ
         RSACryptoServiceProvider ChiavePrivata = new RSACryptoServiceProvider();
         MySqlConnection conn;
         int id = 0;
-
         // COSTRUTTORE
         public ServerClass(Form1 pf)
         {
             PuntaForm1 = pf;
         }
-
         // INIT SERVER
         public void initServer(int p, int MaxConn)
         {
@@ -42,15 +40,14 @@ namespace TCPServ
             MioSocketTCP.Listen(MaxConn);
             PuntaAcceptThread = new Thread(() => mioAcceptThread());
         }
-
         // AVVIA SERVER
         public void avviaServer(int porta, int numMaxConnessioni)
         {
             if (MioSocketTCP == null) initServer(porta, numMaxConnessioni);
             stopReceive = false;
             PuntaAcceptThread.Start();
+            connectDB();
         }
-
         // STOP SERVER
         public void stopServer()
         {
@@ -85,7 +82,6 @@ namespace TCPServ
                 File.AppendAllText(".\\log.log", DateTime.Now.ToString() + " " + ex.Message + "\r\n");
             }
         }
-
         // THREAD ACCEPT
         public void mioAcceptThread()
         {
@@ -95,9 +91,6 @@ namespace TCPServ
                 try
                 {
                     mioClientSocket = MioSocketTCP.Accept();
-
-                    connectDB();
-
                     identificatoreClient = riceviId(mioClientSocket);
                     id = creaClient(identificatoreClient, mioClientSocket);
                     if (VettoreClient[id].nuovoArrivo)
@@ -128,8 +121,6 @@ namespace TCPServ
                 }
             }
         }
-
-
         // RICEVI ID
         string riceviId(Socket SocketNuovoClient)
         {
@@ -156,7 +147,6 @@ namespace TCPServ
             }
             return messaggio;
         }
-
         // CREA CLIENT
         int creaClient(String clID, Socket clientAccettato) {
             int IDtrovato = -1, i = 0;
@@ -184,19 +174,16 @@ namespace TCPServ
             }
             return IDtrovato;
         }
-
         // SHOW FORM RICEVI CLIENT
         public void ShowForm(int id){
             VettoreClient[id].puntaForm.labelIDClient.Text = VettoreClient[id].nomeClient;
             VettoreClient[id].puntaForm.ShowDialog();
         }
-
         // RICEVI
         void ricevi(int clientID)
         {
             string messaggio, latitudine = "", longitudine = "";
             int numByteRicevuti;
-
             while (VettoreClient[clientID].StatoC == StatoClient.Attivo)
             {
                 try
@@ -213,13 +200,12 @@ namespace TCPServ
                         VettoreClient[clientID].puntaForm.ListRiceviClient.Items.Add($"Latitudine: {latitudine}");
                         messaggio = "";
                     }
-                    else if (messaggio.Contains("<longitude>"))
+                    if (messaggio.Contains("<longitude>"))
                     {
                         longitudine = messaggio.Substring(0, messaggio.IndexOf("<longitude>"));
                         VettoreClient[clientID].puntaForm.ListRiceviClient.Items.Add($"Longitudine: {longitudine}");
                         messaggio = "";
                     }
-
                     if (latitudine != "" && longitudine != "")
                     {
                         uploadDB(VettoreClient[clientID].nomeClient, latitudine.Replace(",", "."), longitudine.Replace(",", "."));
@@ -235,7 +221,6 @@ namespace TCPServ
                 }
             }
         }
-
         void connectDB()
         {
             string ServerIP = "127.0.0.1";

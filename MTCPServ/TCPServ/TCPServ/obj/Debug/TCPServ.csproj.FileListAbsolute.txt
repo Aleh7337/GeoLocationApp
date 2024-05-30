@@ -286,3 +286,46 @@ C:\Users\arami\OneDrive\Desktop\MAUI\GeoLocationApp\MTCPServ\TCPServ\TCPServ\obj
 C:\Users\arami\OneDrive\Desktop\MAUI\GeoLocationApp\MTCPServ\TCPServ\TCPServ\obj\Debug\TCPServ.csproj.Up2Date
 C:\Users\arami\OneDrive\Desktop\MAUI\GeoLocationApp\MTCPServ\TCPServ\TCPServ\obj\Debug\TCPServ.exe
 C:\Users\arami\OneDrive\Desktop\MAUI\GeoLocationApp\MTCPServ\TCPServ\TCPServ\obj\Debug\TCPServ.pdb
+C:\Users\LAB 10\Desktop\Maui\GeoLocationApp\MTCPServ\TCPServ\TCPServ\bin\Debug\TCPServ.exe.config
+C:\Users\LAB 10\Desktop\Maui\GeoLocationApp\MTCPServ\TCPServ\TCPServ\bin\Debug\TCPServ.exe
+C:\Users\LAB 10\Desktop\Maui\GeoLocationApp\MTCPServ\TCPServ\TCPServ\bin\Debug\TCPServ.pdb
+C:\Users\LAB 10\Desktop\Maui\GeoLocationApp\MTCPServ\TCPServ\TCPServ\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\LAB 10\Desktop\Maui\GeoLocationApp\MTCPServ\TCPServ\TCPServ\bin\Debug\Google.Protobuf.dll
+C:\Users\LAB 10\Desktop\Maui\GeoLocationApp\MTCPServ\TCPServ\TCPServ\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\LAB 10\Desktop\Maui\GeoLocationApp\MTCPServ\TCPServ\TCPServ\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\LAB 10\Desktop\Maui\GeoLocationApp\MTCPServ\TCPServ\TCPServ\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\LAB 10\Desktop\Maui\GeoLocationApp\MTCPServ\TCPServ\TCPServ\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\LAB 10\Desktop\Maui\GeoLocationApp\MTCPServ\TCPServ\TCPServ\bin\Debug\MySql.Data.dll
+C:\Users\LAB 10\Desktop\Maui\GeoLocationApp\MTCPServ\TCPServ\TCPServ\bin\Debug\System.Buffers.dll
+C:\Users\LAB 10\Desktop\Maui\GeoLocationApp\MTCPServ\TCPServ\TCPServ\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\LAB 10\Desktop\Maui\GeoLocationApp\MTCPServ\TCPServ\TCPServ\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\LAB 10\Desktop\Maui\GeoLocationApp\MTCPServ\TCPServ\TCPServ\bin\Debug\System.IO.Pipelines.dll
+C:\Users\LAB 10\Desktop\Maui\GeoLocationApp\MTCPServ\TCPServ\TCPServ\bin\Debug\System.Memory.dll
+C:\Users\LAB 10\Desktop\Maui\GeoLocationApp\MTCPServ\TCPServ\TCPServ\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\LAB 10\Desktop\Maui\GeoLocationApp\MTCPServ\TCPServ\TCPServ\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\LAB 10\Desktop\Maui\GeoLocationApp\MTCPServ\TCPServ\TCPServ\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\LAB 10\Desktop\Maui\GeoLocationApp\MTCPServ\TCPServ\TCPServ\bin\Debug\ZstdSharp.dll
+C:\Users\LAB 10\Desktop\Maui\GeoLocationApp\MTCPServ\TCPServ\TCPServ\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\LAB 10\Desktop\Maui\GeoLocationApp\MTCPServ\TCPServ\TCPServ\bin\Debug\Google.Protobuf.pdb
+C:\Users\LAB 10\Desktop\Maui\GeoLocationApp\MTCPServ\TCPServ\TCPServ\bin\Debug\Google.Protobuf.xml
+C:\Users\LAB 10\Desktop\Maui\GeoLocationApp\MTCPServ\TCPServ\TCPServ\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\LAB 10\Desktop\Maui\GeoLocationApp\MTCPServ\TCPServ\TCPServ\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\LAB 10\Desktop\Maui\GeoLocationApp\MTCPServ\TCPServ\TCPServ\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\LAB 10\Desktop\Maui\GeoLocationApp\MTCPServ\TCPServ\TCPServ\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\LAB 10\Desktop\Maui\GeoLocationApp\MTCPServ\TCPServ\TCPServ\bin\Debug\MySql.Data.xml
+C:\Users\LAB 10\Desktop\Maui\GeoLocationApp\MTCPServ\TCPServ\TCPServ\bin\Debug\System.Buffers.xml
+C:\Users\LAB 10\Desktop\Maui\GeoLocationApp\MTCPServ\TCPServ\TCPServ\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\LAB 10\Desktop\Maui\GeoLocationApp\MTCPServ\TCPServ\TCPServ\bin\Debug\System.IO.Pipelines.xml
+C:\Users\LAB 10\Desktop\Maui\GeoLocationApp\MTCPServ\TCPServ\TCPServ\bin\Debug\System.Memory.xml
+C:\Users\LAB 10\Desktop\Maui\GeoLocationApp\MTCPServ\TCPServ\TCPServ\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\LAB 10\Desktop\Maui\GeoLocationApp\MTCPServ\TCPServ\TCPServ\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\LAB 10\Desktop\Maui\GeoLocationApp\MTCPServ\TCPServ\TCPServ\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\LAB 10\Desktop\Maui\GeoLocationApp\MTCPServ\TCPServ\TCPServ\obj\Debug\TCPServ.csproj.AssemblyReference.cache
+C:\Users\LAB 10\Desktop\Maui\GeoLocationApp\MTCPServ\TCPServ\TCPServ\obj\Debug\TCPServ.Form1.resources
+C:\Users\LAB 10\Desktop\Maui\GeoLocationApp\MTCPServ\TCPServ\TCPServ\obj\Debug\TCPServ.FormRiceviClient.resources
+C:\Users\LAB 10\Desktop\Maui\GeoLocationApp\MTCPServ\TCPServ\TCPServ\obj\Debug\TCPServ.Properties.Resources.resources
+C:\Users\LAB 10\Desktop\Maui\GeoLocationApp\MTCPServ\TCPServ\TCPServ\obj\Debug\TCPServ.csproj.GenerateResource.cache
+C:\Users\LAB 10\Desktop\Maui\GeoLocationApp\MTCPServ\TCPServ\TCPServ\obj\Debug\TCPServ.csproj.CoreCompileInputs.cache
+C:\Users\LAB 10\Desktop\Maui\GeoLocationApp\MTCPServ\TCPServ\TCPServ\obj\Debug\TCPServ.csproj.Up2Date
+C:\Users\LAB 10\Desktop\Maui\GeoLocationApp\MTCPServ\TCPServ\TCPServ\obj\Debug\TCPServ.exe
+C:\Users\LAB 10\Desktop\Maui\GeoLocationApp\MTCPServ\TCPServ\TCPServ\obj\Debug\TCPServ.pdb

@@ -3,7 +3,7 @@
   <PropertyGroup>
     <IsFirstTimeProjectOpen>False</IsFirstTimeProjectOpen>
     <ActiveDebugFramework>net8.0-android</ActiveDebugFramework>
-    <ActiveDebugProfile>Android Emulator</ActiveDebugProfile>
+    <ActiveDebugProfile>Emulatore Android</ActiveDebugProfile>
     <SelectedPlatformGroup>Emulator</SelectedPlatformGroup>
     <DefaultDevice>pixel_5_-_api_34</DefaultDevice>
   </PropertyGroup>
