@@ -9,6 +9,7 @@ namespace Xaminals.Views
         private Socket _socketClient;
         private List<string> _coordinates;
         string ipserver;
+        List<object> coordinatesList = new List<object> {};
         //WebView MyWebView;
         public MonkeyDetailPage()
         {
@@ -45,7 +46,7 @@ namespace Xaminals.Views
                 lng = longitude
             };
             // Creare una lista di oggetti coordinate JSON
-            var coordinatesList = new List<object> { coordinateObject };
+            coordinatesList.Add(coordinateObject);
             // Serializzare la lista di coordinate in JSON
             string coordinatesJson = JsonSerializer.Serialize(coordinatesList);
             string htmlSource = $@"

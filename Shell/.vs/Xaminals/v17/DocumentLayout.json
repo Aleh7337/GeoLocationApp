@@ -1,26 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\LAB 10\\Desktop\\Maui\\GeoLocationApp\\Shell\\",
+  "WorkspaceRootPath": "C:\\Users\\LAB 10\\Desktop\\MAUI\\GeoLocationApp\\Shell\\",
   "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{AFF7BEAA-671A-49F4-BBAE-C73E12C1E1CF}|Xaminals\\Xaminals.csproj|c:\\users\\lab 10\\desktop\\maui\\geolocationapp\\shell\\xaminals\\views\\catdetailpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AFF7BEAA-671A-49F4-BBAE-C73E12C1E1CF}|Xaminals\\Xaminals.csproj|solutionrelative:xaminals\\views\\catdetailpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
     {
       "AbsoluteMoniker": "D:0:0:{AFF7BEAA-671A-49F4-BBAE-C73E12C1E1CF}|Xaminals\\Xaminals.csproj|c:\\users\\lab 10\\desktop\\maui\\geolocationapp\\shell\\xaminals\\views\\monkeydetailpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AFF7BEAA-671A-49F4-BBAE-C73E12C1E1CF}|Xaminals\\Xaminals.csproj|solutionrelative:xaminals\\views\\monkeydetailpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFF7BEAA-671A-49F4-BBAE-C73E12C1E1CF}|Xaminals\\Xaminals.csproj|c:\\users\\lab 10\\desktop\\maui\\geolocationapp\\shell\\xaminals\\views\\monkeydetailpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AFF7BEAA-671A-49F4-BBAE-C73E12C1E1CF}|Xaminals\\Xaminals.csproj|solutionrelative:xaminals\\views\\monkeydetailpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AFF7BEAA-671A-49F4-BBAE-C73E12C1E1CF}|Xaminals\\Xaminals.csproj|c:\\users\\lab 10\\desktop\\maui\\geolocationapp\\shell\\xaminals\\views\\monkeyspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AFF7BEAA-671A-49F4-BBAE-C73E12C1E1CF}|Xaminals\\Xaminals.csproj|solutionrelative:xaminals\\views\\monkeyspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AFF7BEAA-671A-49F4-BBAE-C73E12C1E1CF}|Xaminals\\Xaminals.csproj|c:\\users\\lab 10\\desktop\\maui\\geolocationapp\\shell\\xaminals\\views\\monkeyspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{AFF7BEAA-671A-49F4-BBAE-C73E12C1E1CF}|Xaminals\\Xaminals.csproj|solutionrelative:xaminals\\views\\monkeyspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{AFF7BEAA-671A-49F4-BBAE-C73E12C1E1CF}|Xaminals\\Xaminals.csproj|c:\\users\\lab 10\\desktop\\maui\\geolocationapp\\shell\\xaminals\\views\\catdetailpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFF7BEAA-671A-49F4-BBAE-C73E12C1E1CF}|Xaminals\\Xaminals.csproj|solutionrelative:xaminals\\views\\catdetailpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AFF7BEAA-671A-49F4-BBAE-C73E12C1E1CF}|Xaminals\\Xaminals.csproj|c:\\users\\lab 10\\desktop\\maui\\geolocationapp\\shell\\xaminals\\views\\monkeydetailpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{AFF7BEAA-671A-49F4-BBAE-C73E12C1E1CF}|Xaminals\\Xaminals.csproj|solutionrelative:xaminals\\views\\monkeydetailpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{AFF7BEAA-671A-49F4-BBAE-C73E12C1E1CF}|Xaminals\\Xaminals.csproj|c:\\users\\lab 10\\desktop\\maui\\geolocationapp\\shell\\xaminals\\views\\monkeyspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AFF7BEAA-671A-49F4-BBAE-C73E12C1E1CF}|Xaminals\\Xaminals.csproj|solutionrelative:xaminals\\views\\monkeyspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AFF7BEAA-671A-49F4-BBAE-C73E12C1E1CF}|Xaminals\\Xaminals.csproj|c:\\users\\lab 10\\desktop\\maui\\geolocationapp\\shell\\xaminals\\views\\catdetailpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -38,93 +38,88 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CatDetailPage.xaml",
-              "DocumentMoniker": "C:\\Users\\LAB 10\\Desktop\\Maui\\GeoLocationApp\\Shell\\Xaminals\\Views\\CatDetailPage.xaml",
-              "RelativeDocumentMoniker": "Xaminals\\Views\\CatDetailPage.xaml",
-              "ToolTip": "C:\\Users\\LAB 10\\Desktop\\Maui\\GeoLocationApp\\Shell\\Xaminals\\Views\\CatDetailPage.xaml",
-              "RelativeToolTip": "Xaminals\\Views\\CatDetailPage.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-29T15:56:32.433Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MonkeyDetailPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\LAB 10\\Desktop\\Maui\\GeoLocationApp\\Shell\\Xaminals\\Views\\MonkeyDetailPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\LAB 10\\Desktop\\MAUI\\GeoLocationApp\\Shell\\Xaminals\\Views\\MonkeyDetailPage.xaml.cs",
               "RelativeDocumentMoniker": "Xaminals\\Views\\MonkeyDetailPage.xaml.cs",
-              "ToolTip": "C:\\Users\\LAB 10\\Desktop\\Maui\\GeoLocationApp\\Shell\\Xaminals\\Views\\MonkeyDetailPage.xaml.cs",
+              "ToolTip": "C:\\Users\\LAB 10\\Desktop\\MAUI\\GeoLocationApp\\Shell\\Xaminals\\Views\\MonkeyDetailPage.xaml.cs",
               "RelativeToolTip": "Xaminals\\Views\\MonkeyDetailPage.xaml.cs",
-              "ViewState": "AQIAACwAAAAAAAAAAAAIwC0AAAAOAAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwAwAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-29T15:09:01.513Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MonkeysPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\LAB 10\\Desktop\\Maui\\GeoLocationApp\\Shell\\Xaminals\\Views\\MonkeysPage.xaml.cs",
-              "RelativeDocumentMoniker": "Xaminals\\Views\\MonkeysPage.xaml.cs",
-              "ToolTip": "C:\\Users\\LAB 10\\Desktop\\Maui\\GeoLocationApp\\Shell\\Xaminals\\Views\\MonkeysPage.xaml.cs",
-              "RelativeToolTip": "Xaminals\\Views\\MonkeysPage.xaml.cs",
+              "DocumentIndex": 5,
+              "Title": "CatDetailPage.xaml",
+              "DocumentMoniker": "C:\\Users\\LAB 10\\Desktop\\MAUI\\GeoLocationApp\\Shell\\Xaminals\\Views\\CatDetailPage.xaml",
+              "RelativeDocumentMoniker": "Xaminals\\Views\\CatDetailPage.xaml",
+              "ToolTip": "C:\\Users\\LAB 10\\Desktop\\MAUI\\GeoLocationApp\\Shell\\Xaminals\\Views\\CatDetailPage.xaml",
+              "RelativeToolTip": "Xaminals\\Views\\CatDetailPage.xaml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-29T15:08:57.639Z",
-              "EditorCaption": ""
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-29T15:56:32.433Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MonkeysPage.xaml",
-              "DocumentMoniker": "C:\\Users\\LAB 10\\Desktop\\Maui\\GeoLocationApp\\Shell\\Xaminals\\Views\\MonkeysPage.xaml",
-              "RelativeDocumentMoniker": "Xaminals\\Views\\MonkeysPage.xaml",
-              "ToolTip": "C:\\Users\\LAB 10\\Desktop\\Maui\\GeoLocationApp\\Shell\\Xaminals\\Views\\MonkeysPage.xaml",
-              "RelativeToolTip": "Xaminals\\Views\\MonkeysPage.xaml",
+              "DocumentIndex": 2,
+              "Title": "MonkeysPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\LAB 10\\Desktop\\MAUI\\GeoLocationApp\\Shell\\Xaminals\\Views\\MonkeysPage.xaml.cs",
+              "RelativeDocumentMoniker": "Xaminals\\Views\\MonkeysPage.xaml.cs",
+              "ToolTip": "C:\\Users\\LAB 10\\Desktop\\MAUI\\GeoLocationApp\\Shell\\Xaminals\\Views\\MonkeysPage.xaml.cs",
+              "RelativeToolTip": "Xaminals\\Views\\MonkeysPage.xaml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-29T15:07:51.138Z",
-              "EditorCaption": ""
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T15:08:57.639Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "MonkeyDetailPage.xaml",
-              "DocumentMoniker": "C:\\Users\\LAB 10\\Desktop\\Maui\\GeoLocationApp\\Shell\\Xaminals\\Views\\MonkeyDetailPage.xaml",
-              "RelativeDocumentMoniker": "Xaminals\\Views\\MonkeyDetailPage.xaml",
-              "ToolTip": "C:\\Users\\LAB 10\\Desktop\\Maui\\GeoLocationApp\\Shell\\Xaminals\\Views\\MonkeyDetailPage.xaml",
-              "RelativeToolTip": "Xaminals\\Views\\MonkeyDetailPage.xaml",
+              "Title": "MonkeysPage.xaml",
+              "DocumentMoniker": "C:\\Users\\LAB 10\\Desktop\\MAUI\\GeoLocationApp\\Shell\\Xaminals\\Views\\MonkeysPage.xaml",
+              "RelativeDocumentMoniker": "Xaminals\\Views\\MonkeysPage.xaml",
+              "ToolTip": "C:\\Users\\LAB 10\\Desktop\\MAUI\\GeoLocationApp\\Shell\\Xaminals\\Views\\MonkeysPage.xaml",
+              "RelativeToolTip": "Xaminals\\Views\\MonkeysPage.xaml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-29T15:07:45.575Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-29T15:07:51.138Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "MonkeyDetailPage.xaml",
+              "DocumentMoniker": "C:\\Users\\LAB 10\\Desktop\\MAUI\\GeoLocationApp\\Shell\\Xaminals\\Views\\MonkeyDetailPage.xaml",
+              "RelativeDocumentMoniker": "Xaminals\\Views\\MonkeyDetailPage.xaml",
+              "ToolTip": "C:\\Users\\LAB 10\\Desktop\\MAUI\\GeoLocationApp\\Shell\\Xaminals\\Views\\MonkeyDetailPage.xaml",
+              "RelativeToolTip": "Xaminals\\Views\\MonkeyDetailPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-29T15:07:45.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "CatDetailPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\LAB 10\\Desktop\\Maui\\GeoLocationApp\\Shell\\Xaminals\\Views\\CatDetailPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\LAB 10\\Desktop\\MAUI\\GeoLocationApp\\Shell\\Xaminals\\Views\\CatDetailPage.xaml.cs",
               "RelativeDocumentMoniker": "Xaminals\\Views\\CatDetailPage.xaml.cs",
-              "ToolTip": "C:\\Users\\LAB 10\\Desktop\\Maui\\GeoLocationApp\\Shell\\Xaminals\\Views\\CatDetailPage.xaml.cs",
+              "ToolTip": "C:\\Users\\LAB 10\\Desktop\\MAUI\\GeoLocationApp\\Shell\\Xaminals\\Views\\CatDetailPage.xaml.cs",
               "RelativeToolTip": "Xaminals\\Views\\CatDetailPage.xaml.cs",
-              "ViewState": "AQIAAFAAAAAAAAAAAAAAwGUAAAAcAAAA",
+              "ViewState": "AQIAAFwAAAAAAAAAAAAAwEQAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T06:15:08.148Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-18T06:15:08.148Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "App.xaml",
-              "DocumentMoniker": "C:\\Users\\LAB 10\\Desktop\\Maui\\GeoLocationApp\\Shell\\Xaminals\\App.xaml",
+              "DocumentMoniker": "C:\\Users\\LAB 10\\Desktop\\MAUI\\GeoLocationApp\\Shell\\Xaminals\\App.xaml",
               "RelativeDocumentMoniker": "Xaminals\\App.xaml",
-              "ToolTip": "C:\\Users\\LAB 10\\Desktop\\Maui\\GeoLocationApp\\Shell\\Xaminals\\App.xaml",
+              "ToolTip": "C:\\Users\\LAB 10\\Desktop\\MAUI\\GeoLocationApp\\Shell\\Xaminals\\App.xaml",
               "RelativeToolTip": "Xaminals\\App.xaml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",

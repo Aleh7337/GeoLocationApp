@@ -22,7 +22,7 @@ namespace Xaminals.Views
         public CatDetailPage()
         {
             InitializeComponent();
-            BindingContext = new MainViewModel { Data = "Hello from MainPage!" };
+            //BindingContext = new MainViewModel { Data = "Hello from MainPage!" };
         }
         String clientId = "Guidatore 1";
         const int DIMBUF = 1024;
@@ -95,7 +95,7 @@ namespace Xaminals.Views
         }
         void Geolocation_LocationChanged(object sender, GeolocationLocationChangedEventArgs e)
         {
-            byte[] bufferTesto = new byte[DIMBUF];  //la stringa del textbox è da convertire in byteArray per essere trasmessa
+            byte[] bufferTesto = new byte[DIMBUF];
             int byteInviati = 0;
             //DisplayAlert("", "Nuova posizione: Latitudine:" + e.Location.Latitude +" Longitudine:" + e.Location.Longitude, "OK");
             bufferTesto = Encoding.ASCII.GetBytes("<latitude>" + e.Location.Latitude +

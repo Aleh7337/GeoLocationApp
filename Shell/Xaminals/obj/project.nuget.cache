@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "onHrOHVdKXwTSHtS2w4ueSLN8UR/hweU0WJu9bAlSvgrcopPQQ/9PhSNvmPPB9M2oDrfYw9wHWqU25kzbasB6A==",
+  "dgSpecHash": "UuDTP13I9qymhrfYOGM/d3bJBvCRqFLNZAJnJLDXUzt4A838N/H/CIdKq3plUJobis31h3uXdL0GFF37PThNUg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\LAB 10\\Desktop\\Maui\\GeoLocationApp\\Shell\\Xaminals\\Xaminals.csproj",
+  "projectFilePath": "C:\\Users\\LAB 10\\Desktop\\MAUI\\GeoLocationApp\\Shell\\Xaminals\\Xaminals.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\LAB 10\\.nuget\\packages\\googlegson\\2.10.1.4\\googlegson.2.10.1.4.nupkg.sha512",
     "C:\\Users\\LAB 10\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",
